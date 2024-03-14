@@ -12,3 +12,12 @@
     </ul>
 
   <p>With Joyzi, the joy of toy shopping knows no bounds. Experience the thrill of discovering new favorites and reliving cherished memories, all in one convenient platform.</p>
+   
+<h1>For run this project </h1>
+ <ol>
+        <li>Clone this project in your Vs code</li>
+        <li>Then wite command in terminal : npm install -g vite</li>
+        <li>Then wite command in terminal : npm update vite</li>
+        <li>Then wite command in terminal : npm run dev</li>
+     
+   </ol>
