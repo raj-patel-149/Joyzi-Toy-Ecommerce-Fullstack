@@ -1,0 +1,326 @@
+{
+  "items": [
+    [
+      {
+        "id": "1",
+        "image": "1.jpg",
+        "name": "Remote-Controlled Car",
+        "description": "Fast and agile remote-controlled car for thrilling races.",
+        "price": 799,
+        "rating": { "stars": 4.7, "count": 120 }
+      },
+      {
+        "id": "2",
+        "image": "2.jpg",
+        "name": "Building Blocks Set",
+        "description": "Colorful building blocks set for imaginative construction play.",
+        "price": 599,
+        "rating": { "stars": 4.5, "count": 90 }
+      },
+      {
+        "id": "3",
+        "image": "3.jpg",
+        "name": "Stuffed Animal Plush Toy",
+        "description": "Adorable stuffed animal plush toy for cuddling and playtime.",
+        "price": 399,
+        "rating": { "stars": 4.8, "count": 150 }
+      },
+      {
+        "id": "4",
+        "image": "4.jpg",
+        "name": "Educational Puzzle Game",
+        "description": "Interactive puzzle game to stimulate learning and problem-solving skills.",
+        "price": 499,
+        "rating": { "stars": 4.6, "count": 100 }
+      },
+      {
+        "id": "5",
+        "image": "5.jpg",
+        "name": "Art and Craft Kit",
+        "description": "Creative art and craft kit with assorted materials for endless projects.",
+        "price": 699,
+        "rating": { "stars": 4.4, "count": 80 }
+      },
+      {
+        "id": "6",
+        "image": "6.jpg",
+        "name": "Plush Teddy Bear",
+        "description": "Soft and cuddly teddy bear perfect for hugs and snuggles.",
+        "price": 499,
+        "rating": { "stars": 4.9, "count": 200 }
+      },
+      {
+        "id": "7",
+        "image": "7.jpg",
+        "name": "Wooden Train Set",
+        "description": "Classic wooden train set with tracks and locomotive.",
+        "price": 899,
+        "rating": { "stars": 4.7, "count": 130 }
+      },
+      {
+        "id": "8",
+        "image": "8.jpg",
+        "name": "Dollhouse Playset",
+        "description": "Detailed dollhouse playset with furniture and accessories.",
+        "price": 999,
+        "rating": { "stars": 4.5, "count": 110 }
+      },
+      {
+        "id": "9",
+        "image": "9.jpg",
+        "name": "Remote-Controlled Helicopter",
+        "description": "Exciting remote-controlled helicopter for aerial adventures.",
+        "price": 1199,
+        "rating": { "stars": 4.6, "count": 150 }
+      },
+      {
+        "id": "10",
+        "image": "10.jpg",
+        "name": "Pretend Play Kitchen Set",
+        "description": "Colorful pretend play kitchen set with play food and utensils.",
+        "price": 799,
+        "rating": { "stars": 4.8, "count": 180 }
+      },
+      {
+        "id": "11",
+        "image": "11.jpg",
+        "name": "Remote-Controlled Racing Car",
+        "description": "Experience the thrill of high-speed racing with this remote-controlled car. Perfect for racing enthusiasts of all ages.",
+        "price": 1499,
+        "rating": { "stars": 4.7, "count": 120 }
+      },
+      {
+        "id": "12",
+        "image": "12.jpg",
+        "name": "Colorful Building Blocks Set",
+        "description": "Spark creativity and imagination with this colorful building blocks set. Build anything you can imagine!",
+        "price": 899,
+        "rating": { "stars": 4.5, "count": 90 }
+      },
+      {
+        "id": "13",
+        "image": "13.jpg",
+        "name": "Interactive Talking Robot",
+        "description": "Meet your new robot friend! This interactive robot can talk, dance, and respond to voice commands. Hours of fun guaranteed!",
+        "price": 1299,
+        "rating": { "stars": 4.8, "count": 150 }
+      },
+      {
+        "id": "14",
+        "image": "14.jpg",
+        "name": "Educational Puzzle Game Set",
+        "description": "Make learning fun with this educational puzzle game set. Develop problem-solving skills while having a blast!",
+        "price": 749,
+        "rating": { "stars": 4.6, "count": 80 }
+      },
+      {
+        "id": "15",
+        "image": "15.jpg",
+        "name": "Outdoor Adventure Exploration Kit",
+        "description": "Embark on exciting outdoor adventures with this exploration kit. Discover new worlds and have unforgettable experiences!",
+        "price": 1199,
+        "rating": { "stars": 4.9, "count": 200 }
+      },
+      {
+        "id": "16",
+        "image": "16.jpg",
+        "name": "Dollhouse Playset with Furniture",
+        "description": "Create your dream home with this dollhouse playset. Comes with furniture and accessories for endless imaginative play.",
+        "price": 1799,
+        "rating": { "stars": 4.7, "count": 160 }
+      },
+      {
+        "id": "17",
+        "image": "17.jpg",
+        "name": "Musical Instrument Toy Set",
+        "description": "Introduce your child to the world of music with this musical instrument toy set. Includes various instruments for musical exploration.",
+        "price": 999,
+        "rating": { "stars": 4.4, "count": 100 }
+      },
+      {
+        "id": "18",
+        "image": "18.jpg",
+        "name": "Art and Craft Kit for Kids",
+        "description": "Unleash your child's creativity with this art and craft kit. Hours of artistic fun await!",
+        "price": 599,
+        "rating": { "stars": 4.3, "count": 70 }
+      },
+      {
+        "id": "19",
+        "image": "19.jpg",
+        "name": "Stuffed Animal Plush Toy",
+        "description": "Snuggle up with this adorable stuffed animal plush toy. Soft and huggable, it's the perfect bedtime companion.",
+        "price": 399,
+        "rating": { "stars": 4.6, "count": 110 }
+      },
+      {
+        "id": "20",
+        "image": "20.jpg",
+        "name": "Dinosaur Adventure Playset",
+        "description": "Embark on prehistoric adventures with this exciting dinosaur playset. Explore ancient lands and encounter mighty dinosaurs!",
+        "price": 1299,
+        "rating": { "stars": 4.7, "count": 150 }
+      },
+      {
+        "id": "21",
+        "image": "21.jpg",
+        "name": "Remote-Controlled Drone",
+        "description": "Experience the thrill of flying with this remote-controlled drone. Perfect for outdoor adventures and aerial photography.",
+        "price": 999,
+        "rating": { "stars": 4.6, "count": 140 }
+      },
+      {
+        "id": "22",
+        "image": "22.jpg",
+        "name": "Building Blocks Tower",
+        "description": "Challenge your construction skills with this towering building blocks set. Build the tallest structures and test your balance!",
+        "price": 699,
+        "rating": { "stars": 4.3, "count": 80 }
+      },
+      {
+        "id": "23",
+        "image": "23.jpg",
+        "name": "Interactive Robot Dog",
+        "description": "Meet your new robotic pet! This interactive robot dog can bark, wag its tail, and perform tricks. A loyal companion for endless fun.",
+        "price": 1199,
+        "rating": { "stars": 4.7, "count": 170 }
+      },
+      {
+        "id": "24",
+        "image": "24.jpg",
+        "name": "Enchanted Fairy Garden",
+        "description": "Enter a magical world of fairies and flowers with this enchanted fairy garden playset. Create whimsical landscapes and fairy dwellings!",
+        "price": 999,
+        "rating": { "stars": 4.5, "count": 140 }
+      },
+      {
+        "id": "25",
+        "image": "25.jpg",
+        "name": "Wild Safari Adventure Set",
+        "description": "Embark on a thrilling safari adventure with this wild animal playset. Encounter majestic lions, towering giraffes, and playful monkeys!",
+        "price": 1499,
+        "rating": { "stars": 4.8, "count": 190 }
+      },
+      {
+        "id": "26",
+        "image": "26.jpg",
+        "name": "DIY Science Experiment Kit",
+        "description": "Explore the wonders of science with this hands-on DIY experiment kit. Conduct exciting experiments and learn about the laws of physics, chemistry, and biology.",
+        "price": 899,
+        "rating": { "stars": 4.6, "count": 120 }
+      },
+      {
+        "id": "27",
+        "image": "27.jpg",
+        "name": "Remote-Controlled Boat",
+        "description": "Set sail on thrilling adventures with this remote-controlled boat. Race against friends or explore tranquil waters at your own pace.",
+        "price": 1299,
+        "rating": { "stars": 4.5, "count": 100 }
+      },
+      {
+        "id": "28",
+        "image": "28.jpg",
+        "name": "Role-Playing Costume Set",
+        "description": "Transform into your favorite characters with this role-playing costume set. Perfect for imaginative play and themed parties.",
+        "price": 699,
+        "rating": { "stars": 4.7, "count": 130 }
+      },
+      {
+        "id": "29",
+        "image": "29.jpg",
+        "name": "Construction Crane Toy",
+        "description": "Build towering skyscrapers with this realistic construction crane toy. Lift and move heavy loads with precision and skill.",
+        "price": 1099,
+        "rating": { "stars": 4.8, "count": 140 }
+      },
+      {
+        "id": "30",
+        "image": "30.jpg",
+        "name": "Musical Keyboard Toy",
+        "description": "Introduce your child to the joy of music with this musical keyboard toy. Learn to play melodies and compose your own tunes.",
+        "price": 599,
+        "rating": { "stars": 4.3, "count": 90 }
+      },
+      {
+        "id": "31",
+        "image": "31.jpg",
+        "name": "Magic Wand Set",
+        "description": "Embark on mystical adventures with this set of magic wands. Cast spells and create enchanting illusions.",
+        "price": 799,
+        "rating": { "stars": 4.6, "count": 110 }
+      },
+      {
+        "id": "32",
+        "image": "32.jpg",
+        "name": "Robotic Arm Kit",
+        "description": "Build and control your own robotic arm with this DIY kit. Learn about robotics and engineering while having fun!",
+        "price": 1199,
+        "rating": { "stars": 4.7, "count": 120 }
+      },
+      {
+        "id": "33",
+        "image": "33.jpg",
+        "name": "Adventure Play Tent",
+        "description": "Set up camp anywhere with this adventure play tent. Perfect for indoor and outdoor imaginative play.",
+        "price": 999,
+        "rating": { "stars": 4.5, "count": 100 }
+      },
+      {
+        "id": "34",
+        "image": "34.jpg",
+        "name": "Robot Building Kit",
+        "description": "Construct your own robot with this building kit. Customize its features and watch it come to life!",
+        "price": 899,
+        "rating": { "stars": 4.8, "count": 130 }
+      },
+      {
+        "id": "35",
+        "image": "35.jpg",
+        "name": "Superhero Cape and Mask Set",
+        "description": "Transform into a superhero with this cape and mask set. Defend justice and fight crime in style!",
+        "price": 599,
+        "rating": { "stars": 4.4, "count": 90 }
+      },
+      {
+        "id": "36",
+        "image": "36.jpg",
+        "name": "Science Lab Experiment Set",
+        "description": "Become a mad scientist with this science lab experiment set. Conduct thrilling experiments and unlock the mysteries of the universe.",
+        "price": 1299,
+        "rating": { "stars": 4.9, "count": 140 }
+      },
+      {
+        "id": "37",
+        "image": "37.jpg",
+        "name": "Toy Pirate Ship",
+        "description": "Sail the high seas with this toy pirate ship. Search for hidden treasure and battle fierce sea monsters!",
+        "price": 1499,
+        "rating": { "stars": 4.7, "count": 110 }
+      },
+      {
+        "id": "38",
+        "image": "38.jpg",
+        "name": "Space Explorer Playset",
+        "description": "Embark on intergalactic adventures with this space explorer playset. Discover alien worlds and encounter strange creatures.",
+        "price": 1799,
+        "rating": { "stars": 4.6, "count": 120 }
+      },
+      {
+        "id": "39",
+        "image": "39.jpg",
+        "name": "Superhero Training Headquarters",
+        "description": "Join forces with your favorite superheroes at this training headquarters playset. Train to become a superhero and defend the world from evil!",
+        "price": 1999,
+        "rating": { "stars": 4.9, "count": 200 }
+      },
+      {
+        "id": "40",
+        "image": "40.jpg",
+        "name": "Construction Zone Bulldozer",
+        "description": "Clear the way for fun with this construction zone bulldozer toy. Push aside obstacles and build new adventures!",
+        "price": 899,
+        "rating": { "stars": 4.4, "count": 120 }
+      }
+    ]
+  ]
+}

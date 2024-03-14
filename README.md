@@ -1,2 +1,8 @@
-# Joyzi-Toy-Ecommerce-Fullstack
-Joyzi is an innovative eCommerce platform tailored specifically for toy enthusiasts, offering a seamless and delightful shopping experience. Built using cutting-edge technologies, including React.js for the frontend, Node.js for the backend, and MySQL for the database.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
