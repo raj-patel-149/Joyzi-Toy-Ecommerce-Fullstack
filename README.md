@@ -7,9 +7,7 @@
     <ul>
         <li>Extensive Toy Collection: Explore over 20 categories of toys, ensuring there's something for everyone.</li>
         <li>User-Friendly Interface: Enjoy a sleek and intuitive interface designed for seamless navigation and effortless shopping.</li>
-        <li>Personalized Recommendations: Receive tailored recommendations based on your browsing history and preferences, making your shopping experience more curated and enjoyable.</li>
         <li>Secure Payment Gateway: Shop with confidence using our secure payment gateway, ensuring the safety of your transactions.</li>
-        <li>Responsive Customer Support: Our dedicated customer support team is readily available to assist you with any queries or concerns, ensuring a hassle-free shopping experience.</li>
         <li>Regular Updates and New Arrivals: Stay up-to-date with the latest toy releases and trends, with new arrivals added regularly to keep the excitement alive.</li>
     </ul>
 
